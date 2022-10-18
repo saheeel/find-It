@@ -28,7 +28,11 @@ We will be using GitHub Projects to manage our project. We will have a project b
 
 ## Project Website
 
-[https://findit.vercel.app/](https://findit.vercel.app/)
+Yet to be decided
+
+### Data Flow Diagram
+
+![Data Flow Diagram](./public/dfd.png)
 
 ## Data Model
 
