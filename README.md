@@ -1,4 +1,4 @@
-# FindIt - A university-centric lost and found web application
+# FindIt - A university-centric lost and found progressive web application
 
 ## Team Members
 
@@ -30,7 +30,7 @@ We will be using GitHub Projects to manage our project. We will have a project b
 
 Yet to be decided
 
-### Data Flow Diagram
+## Data Flow Diagram
 
 ![Data Flow Diagram](./public/dfd.png)
 
