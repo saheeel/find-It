@@ -79,17 +79,17 @@ Yet to be decided
 
 ## Wireframes
 
-### Home Page
+### Login Page
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
+![Login page](./public/page%201.jpg)
 
-### Item Page
+### Home page
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
+![Home Page](./public/page%202.0.jpg)
 
-### Item Form
+### Home page when cursor over the option
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
+![Home Page 2](./public/Page%202.1.jpg)
 
 ### Item Search
 
