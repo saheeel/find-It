@@ -81,7 +81,7 @@ Yet to be decided
 
 ### Home Page
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
+[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](./public/"page 1.jpg")
 
 ### Item Page
 
