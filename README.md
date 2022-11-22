@@ -93,15 +93,18 @@ Yet to be decided
 
 ### Item Search
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
-
+![Home Page 2](.public/page%203.0.jpg)
 ### Item Report
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
+![Home Page 2](.public/page%203.1.jpg)
+
+
+
+![Home Page 2](.public/page%204.jpg)
 
 ### Item Filter
 
-[https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1](https://www.figma.com/file/0Z0Q2Z0Z2Z0Z0Z0Z0Z0Z0Z/FindIt?node-id=0%3A1)
+![Home Page 2](.public/page%205.jpg)
 
 ## Project Schedule
 
