@@ -93,18 +93,18 @@ Yet to be decided
 
 ### Item Search
 
-![Home Page 2](.public/page%203.0.jpg)
+![Home Page 2](./public/page%203.0.jpg)
 ### Item Report
 
-![Home Page 2](.public/page%203.1.jpg)
+![Home Page 2](./public/page%203.1.jpg)
 
 
 
-![Home Page 2](.public/page%204.jpg)
+![Home Page 2](./public/page%204.jpg)
 
 ### Item Filter
 
-![Home Page 2](.public/page%205.jpg)
+![Home Page 2](./public/page%205.jpg)
 
 ## Project Schedule
 
