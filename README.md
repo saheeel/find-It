@@ -83,7 +83,7 @@ Yet to be decided
 
 ![Login page](./public/page%201.jpg)
 
-### Home page
+### Home pages
 
 ![Home Page](./public/page%202.0.jpg)
 
